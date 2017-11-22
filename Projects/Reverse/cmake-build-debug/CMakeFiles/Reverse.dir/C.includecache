@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Derrik/Documents/School/2017/Winter/CIS343/Projects/Reverse/file_utils.h
+
+/Users/Derrik/Documents/School/2017/Winter/CIS343/Projects/Reverse/reverse.c
+stdio.h
+-
+stdlib.h
+-
+file_utils.h
+/Users/Derrik/Documents/School/2017/Winter/CIS343/Projects/Reverse/file_utils.h
+

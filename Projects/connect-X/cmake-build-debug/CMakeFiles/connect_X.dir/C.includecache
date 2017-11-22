@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Derrik/Documents/School/2017/Winter/CIS343/Projects/connect-X/connectx.c
+stdio.h
+-
+stdlib.h
+-
+game.h
+/Users/Derrik/Documents/School/2017/Winter/CIS343/Projects/connect-X/game.h
+
+/Users/Derrik/Documents/School/2017/Winter/CIS343/Projects/connect-X/game.h
+stdio.h
+-
+stdlib.h
+-
+

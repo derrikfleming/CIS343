@@ -1,0 +1,3 @@
+/Users/Derrik/Documents/School/2017/Winter/CIS343/Projects/connect-X/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Derrik/Documents/School/2017/Winter/CIS343/Projects/connect-X/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Derrik/Documents/School/2017/Winter/CIS343/Projects/connect-X/cmake-build-debug/CMakeFiles/connect_X.dir
